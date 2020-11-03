@@ -30,7 +30,7 @@ int main()
         c = temp;
     }
 
-    cout << a<< endl<< b << endl << c << endl;
+    cout << a << endl << b << endl << c << endl;
     cout << endl << x << endl << y << endl << z << endl;
 
     return 0;
