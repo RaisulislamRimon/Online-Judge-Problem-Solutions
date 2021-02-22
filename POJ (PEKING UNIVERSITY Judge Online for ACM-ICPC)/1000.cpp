@@ -1,3 +1,5 @@
+// POJ - 1000 - A+B Problem
+
 #include <iostream>
 
 using namespace std;
