@@ -23,3 +23,27 @@ int main()
 
     return 0;
 }
+
+/*
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+    double sum = 0.0;
+    double a[12] = {0};
+    
+    for (int i = 0; i < 12; i++) 
+    {
+        cin >> a[i];
+        sum += a[i];
+    }
+    
+    double avg = sum / 12;
+    
+    cout << fixed << setprecision(2) << "$" << avg << "\n";
+    
+    return 0;
+}
+*/
